@@ -23,7 +23,7 @@ Esse projeto apresenta um jogo em que, ao inserir um número dentre os parâmetr
 
 ## 🏅 Certificado de Conclusão 
 
-<img src = "img/Certificado.jpg" alt = "Certificado de Conclusão da Alura"/>
+<img src = "img/Certificado1.jpg" alt = "Certificado de Conclusão da Alura"/>
 
 ## 🙋 Autores
 [<img loading="lazy" src="https://avatars.githubusercontent.com/u/136634888?v=4" width=80 alt = "Ícone da Foto de Perfil"> <br> <sub> Gabriel Possato </sub>](https://github.com/possatogabriel)
