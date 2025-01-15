@@ -27,6 +27,7 @@ Esse projeto apresenta, assim como a versão anterior, um jogo que você deve de
 
 ## 🏅 Certificado de Conclusão 
 
+<img src = "img/Certificado1.jpg" alt = "Certificado de Conclusão da Alura"/>
 <img src = "img/Certificado2.jpg" alt = "Certificado de Conclusão da Alura"/>
 
 ## 🙋 Autores
