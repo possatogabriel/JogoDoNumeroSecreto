@@ -10,7 +10,7 @@ Esse projeto apresenta um jogo em que, ao inserir um número dentre os parâmetr
 
 ## 🔗 Link para vizualização
 
-<a href = "https://jogo-do-numero-secreto-sigma-jet.vercel.app/"> <img alt="Badge de Clique Aqui" src="https://img.shields.io/badge/CLIQUE%20AQUI-blue?style=for-the-badge"> </a>
+<a href = "https://jogo-do-numero-secreto-um.vercel.app/"> <img alt="Badge de Clique Aqui" src="https://img.shields.io/badge/CLIQUE%20AQUI-blue?style=for-the-badge"> </a>
 
 ## 💻 Tecnologias Utilizadas
 `Trabalhado durante o curso:`
