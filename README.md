@@ -8,7 +8,7 @@ Segundo projeto do **"Jogo do Número Secreto"**, desenvolvido durante o segundo
 
 Esse projeto apresenta, assim como a versão anterior, um jogo que você deve descobrir o "número secreto", mas com **novas atualizações: visual completamente refeito, botões para "chutar" um número e, ao acertar, criar um novo jogo, utilização de uma inteligência para narrar os textos...**
 
-> Além do "revamp" no visual, também há no **código: novas formas de evitar repetição no código, utilização e declaração de Funções e Arrays, utilização do "DOM" (Document Object Model), utilização do "Math.random" (função que pega um número aleatório)...**
+> Além do "revamp" no visual, também há: **formas de evitar repetição no código, utilização e declaração de Funções e Arrays, utilização do "DOM" (Document Object Model), utilização do "Math.random" (função que pega um número aleatório)...**
 
 ## 🔗 Link para vizualização
 
